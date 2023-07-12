@@ -1,0 +1,2 @@
+#minor changes to fix the graph visual
+Imported the {setInterval} from timers to solve that issue;
